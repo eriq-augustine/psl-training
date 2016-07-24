@@ -1,0 +1,240 @@
+2042	T. Poggio
+2043	T. Poggio
+2041	T. Poggio
+2687	C. Ward
+1622	Joe Marks
+1621	Marks , J
+2861	X. Yu
+2863	D. Zabowski
+1759	Montanari , U.
+1758	Ugo Montanari
+1752	T. Mitchell
+1751	T. Mitchell
+1750	Tom Mitchell
+512	D. D. Cowan
+1378	Lee, J. S.,
+379	Carter, D.
+2295	R. Seidel
+393	Chapman, D.
+392	Chapman, D.
+391	Chapman, D.
+390	Chapman, D.
+395	D. Chapman
+394	D. Chapman
+2271	Schraudolph, N.
+2270	Schraudolph, N.
+174	A.R. Barron
+24090	R. Sosi<=c
+659	Cezary Dubnicki
+1619	A. Marcus
+1616	Mangasarian, O
+1614	O. L. Mangasarian
+1615	O.L. Mangasarian
+1612	O. L. Mangasarian
+1613	O.L. Mangasarian
+1610	Mangasarian OL
+1611	O. L. Mangasarian
+2877	Jieyu Zhao
+2879	J. Zhao
+2878	Jieyu Zhao
+1762	U.Montanari
+1760	Montanari , U.
+1761	U. Montanari
+1140	Christopher F. Joerg
+1141	Christopher F. Joerg
+2402	H. Sndergaard
+696	Elliot , G.
+697	Elliot , G.
+698	Elliot , G. L.
+699	G. L. Elliot
+360	Burstein, M
+361	Burstein M. H.
+388	David Chapman
+389	David J. Chapman
+2209	Gitta Salomon
+1609	Mangasarian OL
+1608	Mangasarian OL
+1605	M. Manago
+1607	Dennis W. Manchak
+1606	M. Manago
+808	J. A. Franklin
+801	Fournier, A.
+807	J. A. Franklin
+2848	K. Yokota
+2849	Yoon, K.B.
+2846	Yan, M.
+2840	Y. Wu
+225	Berleant, D.
+2210	Jim Sanborn
+1805	Murre , J. M. J.
+2850	Yoon , K. B.
+1122	R. Jagadeesan
+1017	M. Hermenegildo
+2082	Rabindra, N.
+2087	H. RAIFFA
+2533	C. G. Thomas
+2534	C. G. Thomas
+2535	C. G. Thomas
+2713	Gerhard Wei
+939	T. Gruber
+938	T. Gruber
+937	T. Gruber
+936	T. R. Gruber
+935	T. R. Gruber
+934	Gruber, T.
+1951	Payne, T. R.
+1950	Payne, T.
+828	P. Fu
+2409	O. J. Sordalen
+799	D. A. Forsyth
+517	L. Craig
+1535	MacIntosh, Douglas J.
+2882	Zhao, J.
+2883	Zhao, J.
+2880	Zhao, J.
+2881	Zhao, J.
+2382	B. M. Smith
+1534	MacIntosh, D. J.
+2527	C.J. Taylor
+2528	Thagard , P.
+1820	M.S. Navar,
+922	Green, C. L.
+927	Groenink, A. V.
+2439	D. STEIGER
+507	M. - M. Corsini
+505	M. - M. Corsini
+2894	Zytkow, J.
+1530	E. Lusk
+2174	S. J. Rosenschein
+2175	S. J. Rosenschein
+2604	Alvaro del Val
+2605	D. Valentin
+2606	D.Valentin
+849	L. Gasser
+2406	Solla, S. A.
+2407	Solla, S. A.
+506	M. - M. Corsini
+504	G. Cornuejols
+1021	M. Hermenegildo
+1020	M. Hermenegildo
+2408	H. Sondergaard
+2380	Smith , B.
+2383	B. M. Smith
+2385	B. M. Smith
+2384	B. M. Smith
+2387	B. M. Smith
+2386	B. M. Smith
+2167	Rogers P.
+744	M. Facello
+1053	T.M. Hong
+498	Conry, Susan E.
+495	Conry , S. E.
+496	Conry, S. E.
+497	Conry, S. E.
+2280	A. Schwartz
+2281	A. Schwartz
+2282	A. Schwartz
+2283	A. Schwartz
+2284	Schwartz, Anton
+2285	Schwartz, A.
+2286	Schwartz, A.
+2287	Schwartz, A.
+1083	Housos E.
+186	Barwise , J.
+187	Jon Barwise
+189	Battaile, B.
+2114	Ratcliff , R.
+2624	Verri , A.
+2625	Verri A.
+2628	Marc B. Vilain
+2629	Marc B. Vilain
+868	Gettys, J.
+866	Gero, J. S.
+2024	A. B. Philips
+2025	A. B. Philips
+2026	Philips, A.
+2029	E. Piccolo
+1043	R. HOGARTH
+1018	M. Hermenegildo
+1019	M. Hermenegildo
+2461	A. Supalov.
+2293	P. D. Scott
+2631	VILAIN, M.
+2630	VILAIN, M.
+2032	Paul Pierce
+2031	Paul Pierce
+2030	C. Pichet
+1247	P. KIRKPATRICK
+767	Fiechter, C.-N.
+1678	McCune, B.
+1095	C. Huser
+1097	Ilg W.
+677	H. Edelsbrunner
+1533	MacIntosh, D. J.
+1419	Levy, A. Y.
+1410	G. Levi
+1411	G. Levi
+1412	G. Levi
+1413	G. Levi
+1414	G. Levi
+955	Haddawy, P.
+956	P. A. Hadfield
+2176	S. Rosenschein
+660	Cezary Dubnicki
+1089	Hruska, S. I.
+1409	G. Levi
+2124	M. Redmond
+940	T. Gruber
+941	T. Gruber
+2653	A. Walker
+2657	Wallace , R.
+2656	Wallace , R.
+2655	Richard J. Wallace
+132	Babuska R.
+2010	C. Perneel
+700	G. Elliott
+82	Arcos, J. L.
+1659	Mayer, Andrew
+586	K.A. Deffenbacher
+588	Delcher , A.
+2839	Y. Wu
+1381	John J. Leggett
+656	C. Dubnicki
+657	C. Dubnicki
+654	C. Dubnicki
+655	C. Dubnicki
+652	C. Dubnicki
+653	C. Dubnicki
+650	Cezary Dubnick
+651	C. Dubnicki
+658	Cezary Dubnicki
+2330	B. Shneiderman
+2331	Shneiderman, B.
+2333	E.H. Shortcliffe
+2334	E. H. Shortliffe
+2335	Shortliffe, E. H.
+2336	Shortliffe, E.
+2245	Schiex , T.
+990	J. S. Harper
+2062	B. Pravin
+2064	Prince , A.
+2065	Prince , A.
+2066	Prince , A.
+2067	Prince , A. S.
+1748	Tom M. Mitchell
+1749	Tom M. Mitchell
+1641	H. Maruyama
+1640	H. Maruyama
+1642	Maruyama , H.
+2403	H. Sndergaard
+359	Mark H. Burstein
+2326	Shieber S. M.
+989	J. S. Harper
+2073	Kai Li. Protected
+1636	H. Maruyama
+1637	H. Maruyama
+1638	H. Maruyama
+1639	H. Maruyama
+2817	T. Winkler
+1292	S. Kraus
+1716	G. Micca

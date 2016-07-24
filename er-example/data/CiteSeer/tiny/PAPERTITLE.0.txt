@@ -1,0 +1,323 @@
+279	Independence , Global Analysis , and Parallelism in Dynamically Scheduled Constraint Logic Programming .
+642	Hospital Corners
+109	Simplifying polynomial constraints over integers to make dependence analysis more precise .
+102	The Principle of Contrast : A Constraint on Language Acquisition .
+1001	Using introspective reasoning to select learning strategies.
+1210	A study of cooperative mechanisms for faster reinforcement learning.
+90	Constraint satisfaction using constraint logic programming .
+559	Decision making  and problem solving,
+555	MAFIA An   Active MailFilterAgent For an Intelligent Document Processing   Support.
+551	Making maximal use of surface criteria in large-scale parsing: the morp parser.
+550	Scanning Tunnelling Microscopy on Rough Surfaces: Deconvolution of Constant Current Images,
+552	Fast analytical computation of Richards's smooth molecular surface.
+513	Compass: Predicting biological activities from molecular surface properties. Performance comparisons on a steroid benchmark,
+1289	Scaling reinforcement learning techniques via modularity.
+1002	Introspective Reasoning Using Meta-Explanations for Multistrategy Learning.
+684	Varieties of self-reference.
+620	When nouns surface as verbs.
+1371	The Parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces,
+1370	The Parti-game Algorithm for Variable  Resolution Reinforcement Learning in Multidimensional State-spaces.
+1373	The Parti-game Algorithm for Variable Resolution Reinforcement Learning in Multidimensional State-spaces.
+1372	The parti-game algorithm for variable resolution reinforcement learning in multidimensional state spaces.
+1375	Generalization in Reinforcement Learning: Safely Approximating the Value Function.
+1374	Generalization in reinforcement learning: Safely approximating the value function.
+1377	Generalization in reinforcement learning: Safely approximating the value  function.
+1376	Generalization in reinforcement learning: safely approximating the value function.
+1379	Generalization in reinforcement learning: safely approximating the value function.
+1378	Generalization in reinforcement learning: safely approximating the value function.
+1345	Learning to perceive and act by trial and error.
+371	A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning.
+370	Building adaptive applications on widely-used platforms with BGP-MS.
+372	A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning.
+377	Using peephole optimization on intermediate code.
+393	Beyond the search surface: Visual search and attentional engagement.
+394	MSEED: A program for rapid determination of accessible surface areas and their derivatives.
+654	An optimal weighting criterion of case indexing for both numeric and symbolic attributes.
+655	Qualitative reasoning of a temporally hierarchical system based on infinitesimal analysis.
+1364	Memory-based reinforcement learning: Converging with less data and less real time,
+1362	Reinforcement learning with highdimensional, continuous actions Wright-Patterson Air Force Base, OH.
+1145	Metalevel negation and nonmonotonic reasoning.
+1546	Ant-Q: A Reinforcement Learning Approach to the Traveling Salesman Problem.
+1548	Ant-Q: A Reinforcement Learning approach to the traveling salesman problem,
+1549	Instance-based utile distinctions for reinforcement learning with hidden state.
+543	Of mice and menus: designing the user-friendly interface.
+540	A softbot-based interface to the internet.
+544	Of Mice and Menus: Designing the User-Friendly Interface,
+414	"Cooperation between the human operator and the multi-agent robotic system - evaluation of agent monitoring methods for the human interface system -,"
+1388	Improving Elevator Performance using Reinforcement Learning.
+412	User-Level DMA for the SHRIMP Network Interface.
+413	Protected, user-level dma for the shrimp network interface.
+1385	Improving elevator performance using reinforcement learning.
+1386	Improving elevator performance using reinforcement learning.
+1387	Improving elevator performance using reinforcement learning.
+1380	. Generalization in reinforcement learning: Safely approximating the value function.
+368	Lexical assistance at the information retrieval user interface.
+367	Lexical Assistance at the Information Retrieval User Interface.
+361	On error surfaces of sufficient order adaptive IIR filters: proofs and counterexamples to a unimodality conjecture.
+385	An investigation into the use of error recovery dialogues in a user interface management system for speech recognition,
+1253	A complexity analysis of cooperative mechanisms in reinforcement learning.
+164	Extensions to constraint dependency parsing for spoken language processing .
+165	Managing multiple knowledge sources in constraint-based parsing spoken language .
+167	" Constraint programming "
+160	Constraint-based hypertext for argumentation .
+161	Semantic foundations of concurrent constraint programming .
+1090	An architecture for real-time reasoning andsystem control.
+671	Knowledge intensive case-based reasoning and sustained learning.
+809	An approach to planning with incomplete information.
+808	An Approach to Planning with Incomplete Information.
+807	. An approach to planning with incomplete information.
+806	. An Approach to Planning with Incomplete Information.
+1259	A complexity analysis of cooperative mechanisms in reinforcement learning.
+1158	Modeling case-based planning for repairing reasoning failures.
+1551	Instance-based utile distinctions for reinforcement learning with hidden state.
+1550	Instance-based utile distinctions for reinforcement learning with hidden state.
+58	PAC learning and constraint dependency grammars .
+57	Constraint parsing : A powerful framework for textbased and spoken language processing .
+537	A softbot-based interface to the internet.
+535	"A Softbot-Based Interface to the Internet,"
+534	A softbot-based interface to the internet.
+533	A Softbot-Based Interface to the Internet,
+532	A softbot-based interface to the internet.
+531	`A softbotbased interface to the internet',
+530	A softbot-based interface to the internet.
+539	A softbot-based interface to the internet.
+538	A softbot-based interface to the internet.
+536	A softbot-based interface to the internet.
+429	A virtual memory mapped network interface for the shrimp multicomputer.
+428	A Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+1398	Reinforcement Learning for the Adaptive Control of Perception and Action.
+1391	"Improving Elevator Performance Using Reinforcement Learning,"
+1390	Improving elevator performance using reinforcement learning.
+1256	A complexity analysis of cooperative mechansims in reinforcement learning.
+1257	A complexity analysis of cooperative mechanisms in reinforcement learning,
+1254	A complexity analysis of cooperative mechanisms in reinforcement learning.
+1255	"A complexity analysis of cooperative mechanisms in reinforcement learning".
+810	An Approach to Planning with Incomplete Information.
+811	An Approach to Planning with Incomplete Information.
+812	An Approach to Planning with Incomplete Information.
+1251	"A complexity analysis of cooperative mechanisms in reinforcement learning".
+1395	Reinforcement Learning for the Adaptive Control of Perception and Action.
+425	A Virtual Memory Mapped Network Interface  for the SHRIMP Multicomputer.
+1392	Improving elevator performance using reinforcement learning.
+427	A Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+426	Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+526	A softbot-based interface to the internet.
+527	A softbot-based interface to the internet.
+1018	Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches.
+1019	Case-Based Reasoning: Foundational issues, current state, and future trends,
+1015	Protein secondary structure prediction using two-level case-based reasoning.
+1016	A two layer case-based reasoning architecture for medical image understanding,
+1017	Case-Based Reasoning: Foundational issues, methodological variations, and system approaches,
+528	A softbot-based interface to the internet.
+529	A softbot-based interface to the Internet.
+1012	Case-based and symbolic classification a case study.
+1013	Integrating Inductive and Case-Based Technologies for Classification and Diagnostic Reasoning.
+1230	First results with utile distinction memory for reinforcement learning.
+1231	First results with utile distinction memory for reinforcement learning.
+435	Consolidated specification of Chimera, the conceptual interface of IDEA.
+430	Virtual Memory Mapped Network Interface for the SHRIMP Multicomputers.
+431	A virtual memory mapped network  interface for the SHRIMP multicomputer.
+237	" Global regulation for robot manipulators under actuator constraints " ,
+232	" Functional structures for parsing dependency constraints . "
+1	Locating the Phase Transition in Constraint Satisfaction Problems .
+143	Multistage negotiation for distributed constraint satisfaction .
+938	Tractable closed-world reasoning with updates.
+937	Tractable closed-world reasoning with updates.
+936	Tractable closed world reasoning with updates.
+935	Tractable closed-world reasoning with updates.
+934	Tractable closed-world reasoning with updates.
+829	Probabilistic Map Learning: Necessity and Difficulties.
+823	"Modeling and Diagnosing Problem-Solving System Behavior,"
+822	"Diagnosis Using the Underlying Theory of a Signal Processing System,"
+1536	Coordination of multiple behaviors acquired by vision-based reinforcement learning.
+1483	Prioritized sweeping: Reinforcement learning with less data and less time.
+1482	Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time.
+1481	Prioritized sweeping: Reinforcement learning with less data and less real time.
+1480	Prioritized sweeping: Reinforcement learning with less data and less real time.
+1488	Reinforcement learning applied to a differential game.
+793	Hierarchical Knowledge Bases and Efficient Disjunctive Reasoning,
+792	Hierarchical knowledge bases and efficient disjunctive reasoning.
+1137	Reasoning,
+1008	Learning the classic description logic: Theoretical and experimental results.
+514	A Butterfly Subdivision Scheme for Surface Interpolation with Tension Control.
+516	Time course of neural responses discriminating different views of the face and head.
+1229	First results with utile distinction memory for reinforcement learning.
+2	Implementation issues in the development of the parsec parser.
+11	Efficient Bottom-up Abstract Interpretation of Prolog by means of Constraint Solving over Symbolic Finite Domains .
+10	EOEcient Abstract Interpretation of Prolog Programs by means of Constraint Solving over Finite Domains .
+203	User ' s guide for CFSQP version 2. 3 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints .
+205	User ' s guide for CFSQP version 2. 3 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints .
+204	User ' s guide for CFSQP version 2. 1 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints .
+512	Scales of variability of bio-optical properties as observed from near-surface drifters.
+922	Representing and Reasoning with Probabilistic Knowledge.
+923	Representing and Reasoning With Probabilistic Knowledge.
+924	Representing and Reasoning with Probabilistic Knowledge.
+926	Conversation, Cognition and Learning.
+832	A semi-quantitiative physics compiler.
+831	Force Sensing from Human Demonstration using a Hybrid Dynamic Model and Qualitative Reasoning,
+834	, Induction and reasoning from cases.
+61	On binary constraint problems .
+62	Constraint grammar of english : A performanceoriented introduction .
+64	The Hardest Constraint Problems : A Double Phase Transition .
+65	The Hardest Constraint Problems : A Double Phase Transition .
+66	The Hardest Constraint Problems : A Double Phase Transition .
+67	Exploiting the Deep Structure of Constraint Problems .
+1034	On reasoning with ambiguities.
+1457	Reinforcement learning: A survey.
+1452	A multistrategy case-based and reinforcement learning approach to self-improving reactive control systems for autonomous robotic navigation.
+1453	A multistrategy case-based and reinforcement learning approach to self-improving reactive control systems for autonomous robotic navigation.
+1458	Reinforcement learning: A survey.
+1459	Reinforcement Learning: A Survey.
+210	Optimal Information Gathering on the Internet with Time and Cost Constraints .
+919	Search through systematic set enumeration.
+918	Search through systematic set enumeration.
+917	Search through systematic set enumeration.
+847	SETHEO, A High-Performance  13  Theorem Prover.
+846	SETHEO, A High-Performance Theorem Prover.
+845	SETHEO: A HighPerformance Theorem Prover.
+841	Pragmatic reasoning in bridge.
+840	QSIM: The program and its use.
+506	Surface reconstruction from unorganized points.
+1021	"Retrieval and Reasoning in Distributed Case Based Systems",
+1020	Case-Based Reasoning: Foundational issues, methodological variations, and system approaches,
+1209	A study of cooperative mechanisms for faster reinforcement learning.
+1207	A study of cooperative mechanisms for faster reinforcement learning,
+1206	A study of cooperative mechanisms for faster reinforcement learning.
+609	Three facets of scientific discovery.
+1118	Focusing atms-based diagnosis and prediction.
+463	. "Face Recognition using Perspective Invariant Features".
+481	Ein anthropomorpher Interface-agent f ur die Interaktion mit einer virtuellen Umgebung.
+480	A User-Adaptive Interface Agency for Interaction with a Virtual Environment.
+195	Learning and applying contextual constraints in sentence comprehension .
+194	" Learning and applying contextual constraints in sentence comprehension " ,
+196	Learning and applying contextual constraints in sentence comprehension .
+906	A modelbased approach to learning from planning failures.
+907	`A modeltheoretic approach to the verication of situated reasoning systems',
+908	A model-theoretic approach to the verification of situated reasoning systems.
+909	A model-theoretic approach to the verification of situated reasoning systems.
+850	CYCORD: a theory of qualitative spatial reasoning.
+851	HERMES: A heterogeneous reasoning and mediator system.
+1059	Modeling rational agents within a BDI-architecture.
+1478	Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time.
+1479	Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time.
+493	Memory, reason, and time: the step-logic approach.
+189	A Symbolic Constraint Solving Framework for Analysis of Logic Programs .
+861	Explanation-driven case-based reasoning,
+860	Explanation-driven case-based reasoning,
+863	Similarity, uncertainty and case-based reasoning in PATDEX.
+862	Explanation-driven case-based reasoning,
+885	Vivid knowledge and tractable reasoning: Preliminary report.
+771	Classifying news stories using memory based reasoning.
+770	Classifying news stories using memory based reasoning.
+772	Classifying news stories using memory based reasoning.
+669	An abstract architecture for rational agents.
+1461	Reinforcement learning: A survey.
+1460	Reinforcement learning: A survey.
+315	An intelligent interface for a virtual environment.
+314	An Intelligent Interface for a Virtual Environment.
+9	EOEcient Abstract Interpretation of Prolog Programs by means of Constraint Solving over Finite Domains ( extended abstract ) .
+768	Classifying news stories using memory based reasoning.
+769	Classifying News Stories unsing Memory Based Reasoning.
+1079	A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning.
+1094	"Reducing communication load on contract net by casebased reasoning - extension with directed contract and forgetting -,"
+1091	Applying case-based reasoning to autoclave loading.
+674	Knowledge-intensive case-based reasoning and learning.
+675	Knowledge intensive case-based reasoning and sustained learning.
+672	Knowledge-Intensive Case-Based Reasoning and Sustained Learning.
+673	Knowledge-intensive case-based reasoning and sustained learning.
+1410	Active perception and reinforcement learning.
+1411	Active Perception and Reinforcement Learning,
+1412	Active perception and reinforcement learning.
+1327	Hidden state and reinforcement learning with instance-based state identification.
+1524	Purposive Behavior Acquisition On A Real Robot By A Vision-Based Reinforcement Learning,
+1525	Purposive behavior acquisition on a real robot by visionbased reinforcement learning.
+1526	"purposive behavior acquisition on a real robot by vision-based reinforcement learning".
+1523	"Vision-based behavior acquisition for a shooting robot by using a reinforcement learning".
+1529	Purposive behav ior acquisition for a real robot by visionbased reinforcement learnin.
+1258	A complexity analysis of cooperative mechanisms in reinforcement learning.
+473	"Finding Faces in Cluttered Scenes using Random Labeled Graph Matching".
+471	"Face Localization via Shape Statistics".
+953	A Situated Reasoning Architecture for Spacebased Repair and Replace Tasks,
+952	Reasoning situated in time I: Basic concepts.
+667	Statistical foundations for default reasoning.
+1060	Towards a calculus for temporal and qualitative reasoning.
+1082	Lp, a logic for representing and reasoning with statistical knowledge.
+1080	A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning.
+599	"The application of voronoi diagrams to nonparametric decision rules",
+1401	Ant-Q: A Reinforcement Learning Approach to Combinatorial Optimization.
+449	Virtual memory mapped network interfaces.
+448	Virtualmemory-mapped network interfaces.
+1547	Ant-Q: A Reinforcement Learning Approach to the Traveling Salesman Problem.
+501	Random-edge discrepancy of supersampling patterns.
+1545	Ant-Q: A Reinforcement Learning approach to the traveling salesman problem,
+1543	"A vision-based reinforcement learning for coordination of soccer playing behaviors".
+1540	Coordination of multiple behaviors acquired by vision-based reinforcement learning.
+1537	Coordination of multiple behaviors acquired by visionbased reinforcement learning.
+1535	"coordination of multiple behaviors acquired by vision-based reinforcement learning".
+1534	Purposive behavior acquisition for a real robot by vision-based reinforcement learning.
+1533	Purposive behavior acquisition for a real robot by vision-based reinforcement learning.
+1532	Purposive behavior acquisition for a real robot by visionbased reinforcement learning.
+1531	Purposive behavior acquisition for a real robot by vision-based reinforcement learning.
+1530	Purposive behavior acquisition for a real robot by vision-based reinforcement learning.
+1539	Coordination of multiple behaviors acquired by vision-based reinforcement learning.
+1538	Coordination of multiple behaviors acquired by visionbased reinforcement learning.
+1026	Case-based reasoning: Business applications,
+942	Inductive reasoning and Kolmogorov complexity.
+943	Inductive reasoning and kolmogorov complexity.
+941	Inductive Reasoning and Kolmogorov Complexity.
+1389	Improving elevator performance using reinforcement learning.
+1436	Issues in using approximation for reinforcement learning.
+1437	Issues in using function approximation for reinforcement learning.
+1435	Issues in using function approximation for reinforcement learning.
+1438	Issues in using function approximation for reinforcement learning.
+1439	Issues in using function approximation for reinforcement learning.
+450	Active stereo: Integrating disparity, vergence, focus, aperture, and calibration for surface estimation,
+1500	Multiagent reinforcement learning and the iterated prisoner's dilemma.
+653	An optimal weighting criterion of case indexing for both numeric and symbolic attributes.
+1508	Vision-based reinforcement learning for purposive behavior acquisition.
+1509	Vision-based reinforcement learning for purposive behavior acquisition.
+324	Social Information Filtering: Algorithms for Automating "Word of Mouth".
+325	Design Of A Browsing Interface For Information Retrieval.
+997	Reasoning about action I: A possible worlds approach.
+999	Reasoning about action I: A possible worlds approach.
+998	Reasoning about action II: The qualification problem.
+120	Constraints for the computation of optic flow .
+1397	Reinforcement learning for the adaptive control of perception and action Tech.
+1396	Reinforcement Learning for the Adaptive Control of Perception and Action.
+1252	A complexity analysis of cooperative mechanisms in reinforcement learning,
+578	A User Interface Integrating Adaptability and Adaptivity.
+577	A user interface integrating adaptability and adaptivity.
+574	Distributed-Directory Scheme: Scalable Coherent Interface.
+1208	A study of cooperative mechanisms for faster reinforcement learning.
+1420	CMAC Manipulator Control Using a Reinforcement Learned Trajectory Planner
+1425	Efficient exploration in reinforcement learning,
+1424	Efficient exploration in reinforcement learning.
+1427	Efficient exploration in reinforcement learning.
+1426	Efficient exploration in reinforcement learning.
+1429	Efficient exploration in reinforcement learning.
+1428	Efficient exploration in reinforcement learning,
+469	Using Memory-Mapped Network Interfaces to Improve the Performance of Distributed Shared Memory.
+468	Using MemoryMapped Network Interfaces to Improve t he Performance of Distributed Shared Memory.
+1352	Feudal Reinforcement Learning.
+353	Reconstruction of surfaces from proles,
+351	Face recognition from one model view.
+1290	"Scaling Reinforcement Learning Techniques via Modularity,"
+1291	Scaling reinforcement learning techniques via modularity.
+986	A model of inexact reasoning in medicine.
+987	A model of inexact reasoning in medicine.
+984	A Model of Inexact Reasoning in Medicine, in: Rule-Based Expert Systems,
+985	A model of inexact reasoning in medicine,
+116	Parallel constraint satisfaction as a comprehension mechanism .
+110	EOEcient Analysis of Concurrent Constraint Logic Programs .
+119	Constraints for the Computation of Optical Flow ,
+565	: Designing SpeechActs: Issues in Speech User Interfaces,
+567	Visual Interactive Modeling in Industry: Results  from a Survey of Visual Interactive Model Builders,
+1163	Using transitional proximity for faster reinforcement learning.
+472	"Face Localization via Shape Statistics".
+1366	The partigame algorithm for variable resolution reinforcement learning in multidimensional state-spaces.
+1367	The parti-game algorithm for variable resolution reinforcement learning in multidimensional state spaces.
+470	Using MemoryMapped Network Interfaces to Improve t he Performance of Distributed Shared Memory.
+1365	Memory-based reinforcement learning: Efficient computation with prioritized sweeping.
+1363	Memory-based reinforcement learning: Converging with less data and less real time.
+1368	The partigame algorithm for variable resolution reinforcement learning in multidimensional statespaces..
+1369	The parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces.

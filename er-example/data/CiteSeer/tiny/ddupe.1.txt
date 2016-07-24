@@ -1,0 +1,506 @@
+Node
+AuthorID(STRING)	AuthorName(STRING)
+2042	T. Poggio
+2043	T. Poggio
+2041	T. Poggio
+2687	C. Ward
+1622	Joe Marks
+1621	Marks , J
+2861	X. Yu
+2863	D. Zabowski
+1759	Montanari , U.
+1758	Ugo Montanari
+1752	T. Mitchell
+1751	T. Mitchell
+1750	Tom Mitchell
+512	D. D. Cowan
+1378	Lee, J. S.,
+379	Carter, D.
+2295	R. Seidel
+393	Chapman, D.
+392	Chapman, D.
+391	Chapman, D.
+390	Chapman, D.
+395	D. Chapman
+394	D. Chapman
+2271	Schraudolph, N.
+2270	Schraudolph, N.
+174	A.R. Barron
+24090	R. Sosi<=c
+659	Cezary Dubnicki
+1619	A. Marcus
+1616	Mangasarian, O
+1614	O. L. Mangasarian
+1615	O.L. Mangasarian
+1612	O. L. Mangasarian
+1613	O.L. Mangasarian
+1610	Mangasarian OL
+1611	O. L. Mangasarian
+2877	Jieyu Zhao
+2879	J. Zhao
+2878	Jieyu Zhao
+1762	U.Montanari
+1760	Montanari , U.
+1761	U. Montanari
+1140	Christopher F. Joerg
+1141	Christopher F. Joerg
+2402	H. Sndergaard
+696	Elliot , G.
+697	Elliot , G.
+698	Elliot , G. L.
+699	G. L. Elliot
+360	Burstein, M
+361	Burstein M. H.
+388	David Chapman
+389	David J. Chapman
+2209	Gitta Salomon
+1609	Mangasarian OL
+1608	Mangasarian OL
+1605	M. Manago
+1607	Dennis W. Manchak
+1606	M. Manago
+808	J. A. Franklin
+801	Fournier, A.
+807	J. A. Franklin
+2848	K. Yokota
+2849	Yoon, K.B.
+2846	Yan, M.
+2840	Y. Wu
+225	Berleant, D.
+2210	Jim Sanborn
+1805	Murre , J. M. J.
+2850	Yoon , K. B.
+1122	R. Jagadeesan
+1017	M. Hermenegildo
+2082	Rabindra, N.
+2087	H. RAIFFA
+2533	C. G. Thomas
+2534	C. G. Thomas
+2535	C. G. Thomas
+2713	Gerhard Wei
+939	T. Gruber
+938	T. Gruber
+937	T. Gruber
+936	T. R. Gruber
+935	T. R. Gruber
+934	Gruber, T.
+1951	Payne, T. R.
+1950	Payne, T.
+828	P. Fu
+2409	O. J. Sordalen
+799	D. A. Forsyth
+517	L. Craig
+1535	MacIntosh, Douglas J.
+2882	Zhao, J.
+2883	Zhao, J.
+2880	Zhao, J.
+2881	Zhao, J.
+2382	B. M. Smith
+1534	MacIntosh, D. J.
+2527	C.J. Taylor
+2528	Thagard , P.
+1820	M.S. Navar,
+922	Green, C. L.
+927	Groenink, A. V.
+2439	D. STEIGER
+507	M. - M. Corsini
+505	M. - M. Corsini
+2894	Zytkow, J.
+1530	E. Lusk
+2174	S. J. Rosenschein
+2175	S. J. Rosenschein
+2604	Alvaro del Val
+2605	D. Valentin
+2606	D.Valentin
+849	L. Gasser
+2406	Solla, S. A.
+2407	Solla, S. A.
+506	M. - M. Corsini
+504	G. Cornuejols
+1021	M. Hermenegildo
+1020	M. Hermenegildo
+2408	H. Sondergaard
+2380	Smith , B.
+2383	B. M. Smith
+2385	B. M. Smith
+2384	B. M. Smith
+2387	B. M. Smith
+2386	B. M. Smith
+2167	Rogers P.
+744	M. Facello
+1053	T.M. Hong
+498	Conry, Susan E.
+495	Conry , S. E.
+496	Conry, S. E.
+497	Conry, S. E.
+2280	A. Schwartz
+2281	A. Schwartz
+2282	A. Schwartz
+2283	A. Schwartz
+2284	Schwartz, Anton
+2285	Schwartz, A.
+2286	Schwartz, A.
+2287	Schwartz, A.
+1083	Housos E.
+186	Barwise , J.
+187	Jon Barwise
+189	Battaile, B.
+2114	Ratcliff , R.
+2624	Verri , A.
+2625	Verri A.
+2628	Marc B. Vilain
+2629	Marc B. Vilain
+868	Gettys, J.
+866	Gero, J. S.
+2024	A. B. Philips
+2025	A. B. Philips
+2026	Philips, A.
+2029	E. Piccolo
+1043	R. HOGARTH
+1018	M. Hermenegildo
+1019	M. Hermenegildo
+2461	A. Supalov.
+2293	P. D. Scott
+2631	VILAIN, M.
+2630	VILAIN, M.
+2032	Paul Pierce
+2031	Paul Pierce
+2030	C. Pichet
+1247	P. KIRKPATRICK
+767	Fiechter, C.-N.
+1678	McCune, B.
+1095	C. Huser
+1097	Ilg W.
+677	H. Edelsbrunner
+1533	MacIntosh, D. J.
+1419	Levy, A. Y.
+1410	G. Levi
+1411	G. Levi
+1412	G. Levi
+1413	G. Levi
+1414	G. Levi
+955	Haddawy, P.
+956	P. A. Hadfield
+2176	S. Rosenschein
+660	Cezary Dubnicki
+1089	Hruska, S. I.
+1409	G. Levi
+2124	M. Redmond
+940	T. Gruber
+941	T. Gruber
+2653	A. Walker
+2657	Wallace , R.
+2656	Wallace , R.
+2655	Richard J. Wallace
+132	Babuska R.
+2010	C. Perneel
+700	G. Elliott
+82	Arcos, J. L.
+1659	Mayer, Andrew
+586	K.A. Deffenbacher
+588	Delcher , A.
+2839	Y. Wu
+1381	John J. Leggett
+656	C. Dubnicki
+657	C. Dubnicki
+654	C. Dubnicki
+655	C. Dubnicki
+652	C. Dubnicki
+653	C. Dubnicki
+650	Cezary Dubnick
+651	C. Dubnicki
+658	Cezary Dubnicki
+2330	B. Shneiderman
+2331	Shneiderman, B.
+2333	E.H. Shortcliffe
+2334	E. H. Shortliffe
+2335	Shortliffe, E. H.
+2336	Shortliffe, E.
+2245	Schiex , T.
+990	J. S. Harper
+2062	B. Pravin
+2064	Prince , A.
+2065	Prince , A.
+2066	Prince , A.
+2067	Prince , A. S.
+1748	Tom M. Mitchell
+1749	Tom M. Mitchell
+1641	H. Maruyama
+1640	H. Maruyama
+1642	Maruyama , H.
+2403	H. Sndergaard
+359	Mark H. Burstein
+2326	Shieber S. M.
+989	J. S. Harper
+2073	Kai Li. Protected
+1636	H. Maruyama
+1637	H. Maruyama
+1638	H. Maruyama
+1639	H. Maruyama
+2817	T. Winkler
+1292	S. Kraus
+1716	G. Micca
+
+
+EdgeEntity
+PaperID(STRING)	Title(STRING)
+643	Guides: Characterizing the interface.
+340	Interfaces that Learn: A Learning Apprentice for Calendar Management,
+341	Interface Agents that Learn: An Investigation of Learning Issues in a Mail Agent Interface.
+294	Phase Transition and the Mushy Region in Constraint Satisfaction Problems .
+295	Phase Transition and the Mushy Region in Constraint Satisfaction Problems .
+273	Spacetime Constraints Revisited ,
+275	Reasoning about spatial constraints ,
+276	Analyzing Constraint Logic Programs .
+278	Some Considerations on the CompileTime Analysis of Constraint Logic Programs .
+100	Structural disambiguation with constraint propagation .
+101	Structural disambiguation with constraint propagation .
+98	Control of vehicles with second-order nonholonomic constraints : Underactuated vehicles .
+93	Partial Constraint Satisfaction .
+92	Partial constraint staisfaction .
+559	Decision making  and problem solving,
+553	FORMAL MECHANISMS FOR MOVEMENT AND SURFACE STRUCTURE IN DUTCH
+1191	Input generalization in delayed reinforcement learning: An algorithm and performance comparisons.
+1193	Input generalization in delayed reinforcement learning: An algorithm and performance comparisons.
+1192	"Input generalization in delayed reinforcement learning: An alogorithm and performance comparisons".
+1195	. Learning from delayed reinforcement in a complex domain.
+1194	Input Generalization in Delayed Reinforcement Learning: An Algorithm and Performance Comparisons.
+1197	Learning from Delayed Reinforcement In a Complex Domain.
+1196	Learning from delayed reinforcement in a complex domain.
+1176	A reinforcement learning method for maximizing undiscounted rewards.
+1175	A reinforcement learning method for maximizing undiscounted rewards.
+1174	A reinforcement learning method for maximizing undiscounted rewards,
+513	Compass: Predicting biological activities from molecular surface properties. Performance comparisons on a steroid benchmark,
+515	"Can backpropagation error surface not have local minima,"
+688	Representations for Decision-Theoretic Planning: Utility Functions for Dealine Goals.
+683	The synthesis of digital machines with provable epistemic properties.
+682	The synthesis of digital machines with provable epistemic properties.
+1220	Incremental selfimprovement for lifelong multi agent reinforcement learning.
+454	Multi-surface method of pattern separation.
+373	Experience with Rule Induction and k-Nearest Neighbour Methods for Interface Agents that Learn.
+374	Uncalibrated stereo vision with pointing for a man-machine interface.
+247	A practical approach to the global analysis of constraint logic programs .
+246	Analogical mapping by constraint satisfaction ,
+248	A Practical Approach to the Global Analysis of Constraint Logic Programs.
+179	Increasing tree search efficiency for constraint satisfaction problems .
+546	The User Interface In A Hypertext Multiwindow Browser.
+549	On the 0,1 facet of the set covering problems.
+414	"Cooperation between the human operator and the multi-agent robotic system - evaluation of agent monitoring methods for the human interface system -,"
+416	Xlib - C language X interface, MIT X consortium standard.
+412	User-Level DMA for the SHRIMP Network Interface.
+413	Protected, user-level dma for the shrimp network interface.
+419	The Network Interface Chip.
+366	Constructing higher-dimensional convex hulls at logarithmic cost per face.
+362	Second order properties of error surfaces: Learning time and generalization.
+363	Second order properties of error surfaces: Learning time and generalization.
+382	Paragente: Exploring the issues in agent based user interfaces.
+386	The Paragon implementation of the NX message passing interface.
+387	The Paragon implementation of the NX message passing interface.
+169	Directed Arc Consistency Preprocessing .
+679	Realtime Metareasoning with Dynamic Tradeoff Evaluation,
+803	The design and experimental analysis of algorithms for temporal reasoning.
+802	Constraint propagation algorithms for temporal reasoning: A revised report.
+801	Constraint propagation algorithms for temporal reasoning.
+55	Optimality theory : Constraint interaction in generative grammar .
+56	Prosodic morphology i : Constraint interaction and satisfaction .
+50	In Search of Exceptionally Difficult Constraint Satisfaction Problems .
+53	Optimality Theory : Constraint Interaction in Generative Grammar .
+429	A virtual memory mapped network interface for the shrimp multicomputer.
+428	A Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+421	"Rita - An Editor User Interface for Manipulating Structured Documents",
+420	`Report on a prototypical interface for structured documents and its application to the IEN scenario',
+422	Graphics Design for Electronic Documents and User Interfaces.
+229	Abstracting Synchronization in Concurrent Constraint Programming .
+151	The effects of precision constraints in a backpropagation learning network .
+150	Transputers and neural networks : an analysis of implementation constraints and performance .
+153	Connectionist models of recognition memory : constraints imposed by learning and forgetting functions .
+152	The Effects of Precision Constraints in a Backpropagation Learning Network .
+157	Constraint-Based Grammar Formalisms : Parsing and Type Inference for Natural and Computer Languages .
+156	Foundations of timed concurrent constraint programming .
+818	"Fuzzy reasoning and neural networks for decision making problems in uncertain environments,"
+815	A formal analysis of machine learning systems for knowledge acquisition.
+817	Expert networks: a neural network connection to symbolic reasoning systems,
+1492	Acquiring robot skills via reinforcement learning.
+1493	Acquiring robot skills via reinforcement learning.
+425	A Virtual Memory Mapped Network Interface  for the SHRIMP Multicomputer.
+427	A Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+426	Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+1128	Reasoning about spatial constraints,
+1120	CLARE: A Contextual Reasoning and Cooperative Response Framework for the Core Language Engine.
+1127	Shape emergence using symbolic reasoning,
+1013	Integrating Inductive and Case-Based Technologies for Classification and Diagnostic Reasoning.
+436	PARMACS-6.0 library interface specification.
+430	Virtual Memory Mapped Network Interface for the SHRIMP Multicomputers.
+431	A virtual memory mapped network  interface for the SHRIMP multicomputer.
+238	Spacetime constraints revisited .
+1	Locating the Phase Transition in Constraint Satisfaction Problems .
+143	Multistage negotiation for distributed constraint satisfaction .
+1487	Reinforcement learning with selfmodifying policies.
+1486	Reinforcement learning with selfmodifying policies.
+1138	Irrelevance Reasoning in Knowledge Based Systems.
+511	Polar cloud and surface classification using AVHRR imagery: an intercomparison of methods.
+1003	Concept Formation by Analogical Reasoning and Debugging,
+626	Statistical learning networks: A unifying view.
+11	Efficient Bottom-up Abstract Interpretation of Prolog by means of Constraint Solving over Symbolic Finite Domains .
+10	EOEcient Abstract Interpretation of Prolog Programs by means of Constraint Solving over Finite Domains .
+204	User ' s guide for CFSQP version 2. 1 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints .
+834	, Induction and reasoning from cases.
+835	"Learning from Others' Experience: Creating Cases from Examples,"
+3	An application of constraint propagation to data-flow analysis .
+1032	Heuristic search as evidential reasoning.
+504	Modelling the Interaction of Light between Diffuse Surfaces.
+632	A TightlyCoupled Processor-Network Interface.
+1211	Reinforcement learning with hidden states.
+1216	Incremental self-improvement for life-time multi-agent reinforcement learning.
+1217	Incremental self-improvement for life-time multi-agent reinforcement learning.
+639	X-AiD: An adaptive and knowledge-based human-computer interface.
+1218	Incremental self-improvement for life-time multiagent reinforcement learning.
+1219	Incremental self-improvement for life-time multi-agent reinforcement learning.
+4	An Application of Constraint Propagation to Data-AEow Analysis .
+458	Multisurface method of pattern separation for medical diagnosis applied to breast cytology.
+1212	Reinforcement learning with hidden states.
+609	Three facets of scientific discovery.
+5	Joining Abstract and Concrete Computations in Constraint Logic Programming .
+463	. "Face Recognition using Perspective Invariant Features".
+486	Common Illumination between Real and Computer Generated Scenes.
+855	A Reflective Architecture for Integrated Memory-based Learning and Reasoning,
+851	HERMES: A heterogeneous reasoning and mediator system.
+6	A Generalized Semantics for Constraint Logic Programs .
+742	Synthesizing information-tracking automata from environment descriptions.
+1477	A learning architecture based on reinforcement learning for adaptive control of the walking machine LAURON.
+494	USING MPI Portable Parallel Programming with the MessagePassing Interface.
+497	Functional Description of a GraphBased Interface for Network Modeling (GIN),
+596	A procedural interface for program directing.
+182	Increasing tree search efficiency for constraint satisfaction problems .
+183	Increasing Tree Search Efficiency for Constraint Satisfaction Problems .
+180	Increasing tree search efficiency for constraint satisfaction problems .
+181	Increasing tree search efficiency for constraint satisfaction problems .
+867	Computing Knowledge Base Updates.
+883	Nonmonotonicity and the scope of reasoning: Preliminary report.
+771	Classifying news stories using memory based reasoning.
+76	" A constraint satisfaction network for matching 3 D object , "
+1043	The DARPA knowledge sharing effort: Progress report.
+1042	The DARPA knowledge sharing effort: Progress report.
+1047	The DARPA knowledge sharing effort: Progress report.
+1046	The DARPA Knowledge Sharing Effort: Progress Report.
+1045	The DARPA Knowledge Sharing Effort: Progress report.
+1044	The DARPA knowledge sharing effort: Progress report.
+1048	The DARPA Knowledge Sharing Effort: Progress report.
+878	Programming in OBJ and Maude.
+879	Goal Dependent vs Goal Independent Analysis of Logic Programs.
+9	EOEcient Abstract Interpretation of Prolog Programs by means of Constraint Solving over Finite Domains ( extended abstract ) .
+1249	Memory approaches to reinforcement learning in nonmarkovian domains.
+1078	Hall: Computatinal approaches to analogical reasoning; A comparative analysis.
+1250	Memory approaches to reinforcement learning in nonMarkovian domains.
+303	"PROSQL: A Prolog Programming Interface with SQL/DS,"
+953	A Situated Reasoning Architecture for Spacebased Repair and Replace Tasks,
+955	DARES: A Distributed Automated REasoning System.
+957	DARES: A Distributed Automated REasoning System.
+956	DARES: A Distributed Automated REasoning System.
+1442	Distributed reinforcement learning.
+660	Using incomplete quantitative knowledge in qualitative reasoning.
+592	"Automatic Subproblem Optimization for Airline Crew Scheduling",
+449	Virtual memory mapped network interfaces.
+448	Virtualmemory-mapped network interfaces.
+447	"Face Recognition: Features versus Templates".
+446	"Face Recognition: Features versus Templates".
+8	Generalized Semantics and Abstract Interpretation for Constraint Logic Programs .
+130	" Concurrent semantics for concurrent constraint programs " in
+137	A new generalized framework for finding object orientation using perspective trihedral angle constraint .
+138	A new generalized computational framework for finding object orientation using perspective trihedral angle constraint .
+80	Constraint propagation algorithms for temporal reasoning .
+81	Constraint propagation algorithms for temporal reasoning : A revised report .
+84	Analysis of local consistency in parallel constraint networks .
+1436	Issues in using approximation for reinforcement learning.
+1437	Issues in using function approximation for reinforcement learning.
+1434	Adaptive fuzzy control of satellite attitude by reinforcement learning.
+1435	Issues in using function approximation for reinforcement learning.
+1438	Issues in using function approximation for reinforcement learning.
+1439	Issues in using function approximation for reinforcement learning.
+459	"Multisurface method of pattern separation for medical diagnosis applied to breast cytology,"
+451	: Multi-surface method of pattern separation.
+452	: Multi-surface method of pattern separation.
+453	Multi-surface method of pattern separation.
+455	"Multisurface method of pattern separation,"
+456	Multisurface method of pattern separation for medical diagnosis applied to breast cytology,
+457	: Multisurface method of pattern separation for medical diagnosis applied to breast cytology.
+54	Optimality Theory : Constraint Interaction in Generative Grammar .
+326	"On the Use of Neural Networks for Speaker Independent Isolated Word Recognition",
+325	Design Of A Browsing Interface For Information Retrieval.
+995	An ontology for engineering mathematics.
+120	Constraints for the computation of optic flow .
+121	Constraints , channels , and the flow of information .
+122	Constraints , channels , and the flow of information .
+123	Networks of constraints : fundamental properties and applications to picture processing .
+124	Networks of constraints : Fundamental properties and applications to picture processing .
+125	Constraint Solving over Semirings .
+126	Analysis of constraint logic programs .
+127	Analysis of Constraint Logic Programs .
+128	An optimizing compiler for CLP ( R ) .
+129	" Graph rewriting for a partial ordering semantics of concurrent constraint programming " ,
+578	A User Interface Integrating Adaptability and Adaptivity.
+577	A user interface integrating adaptability and adaptivity.
+733	Total Order vs. Partial Order Planning: Factors Influencing Performance.
+466	"Automatic Interpretation of Human Faces and Hand Gestures Using Flexible Models".
+461	Low-dimensional representation of faces in higher dimensions of the face space.
+462	"Connectionist Models of Face Processing: A Survey".
+1514	Efficient Reinforcement Learning.
+352	Recognizing algebraic surfaces from their outlines,
+351	Face recognition from one model view.
+358	"Looking for the Bright Side of User Interface Agents,"
+286	In Search of Exceptionally Difficult Constraint Satisfaction Problems .
+263	Constraint dependency grammar .
+262	Constraint dependency grammar and its weak generative capacity .
+261	Constraint dependency grammar and its weak generative capacity .
+265	Constraint dependency grammar .
+264	Constraint dependency grammar .
+986	A model of inexact reasoning in medicine.
+987	A model of inexact reasoning in medicine.
+984	A Model of Inexact Reasoning in Medicine, in: Rule-Based Expert Systems,
+985	A model of inexact reasoning in medicine,
+119	Constraints for the Computation of Optical Flow ,
+561	The Facet Approach to Optic Flow,
+567	Visual Interactive Modeling in Industry: Results  from a Survey of Visual Interactive Model Builders,
+728	Analogy vs. CBR; The purpose of mapping.
+729	Analogy vs. cbr; the purpose of mapping.
+49	Sparse Constraint Graphs and Exceptionally Hard Problems .
+46	Sparse Constraint Graphs and Exceptionally Hard Problems .
+45	Valued Constraint Satisfaction Problems : Hard and Easy Problems .
+42	Minimizing conflicts : A heuristic repair method for constraint satisfaction and scheduling problems .
+43	Solving large scale constraint satisfaction and scheduling problems using a heuristic repair method .
+475	Measuring proteins and voids in proteins.
+
+Edge
+PaperAuthor_1_AuthorID	PaperAuthor_2_AuthorID	PaperID
+2863	1752	340
+1752	2863	340
+1043	2087	559
+2087	1043	559
+922	1951	373
+1951	922	373
+2073	658	412
+658	2073	412
+2846	866	1127
+866	2846	1127
+2883	2271	1487
+2271	2883	1487
+2882	2270	1486
+2270	2882	1486
+2082	1820	511
+1820	2082	511
+496	1533	955
+1533	496	955
+1535	498	957
+498	1535	957
+497	1534	956
+1534	497	956
+2029	1716	326
+1716	2029	326
+586	2606	461
+2606	586	461
+677	744	475
+677	828	475
+744	677	475
+744	828	475
+828	677	475
+828	744	475

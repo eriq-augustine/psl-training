@@ -1,0 +1,345 @@
+344	Buchanan, G. B.
+340	B. Buchanan
+341	B. G. Buchanan
+342	B.G. Buchanan
+343	Buchanan, B. G.
+2311	Upendra Shardanand
+1780	A. W. Moore
+1781	A.W. MOORE
+108	H. Asama
+1439	M. Li
+1003	Juha Heikkila
+879	P. Giblin
+1224	R. Kelly
+2307	M. Shanahan
+249	Matthias A. Blumrich
+248	B. Bloom
+2198	Rymon, R.
+2455	V.S. Subrahmanian
+2053	R. Poulsen
+2055	Prager, J.
+2054	John Prager
+2405	Gurindar S. Sohi
+1618	R. Mantley
+2542	S. Thrun
+2544	S. Thrun
+1768	A. W. Moore
+1769	A. W. Moore
+1763	A. Moore
+1766	Andrew W. Moore
+1767	Moore, Andrew W.
+1764	Moore, A.
+1765	Andrew W. Moore
+692	J. Elgot-Drapkin
+693	J. Elgot-Drapkin
+546	G.B. DANTZIG
+1782	A. W. Moore
+1783	Moore, A. W.
+1784	Moore, A. W.
+1785	Moore, A. W.
+1786	Moore, A. W.
+1787	Moore, A. W.
+2760	S.D. Whitehead
+258	M. Blumrich
+259	M. Blumrich
+252	Matthias Blumrich
+253	M. Blumrich
+250	Matthias A. Blumrich
+251	Matthias Blumrich
+256	M. Blumrich
+257	M. Blumrich
+254	M. Blumrich
+255	M. Blumrich
+2200	Rymon, R.
+803	Fox, S.
+2845	N. Yankelovich
+1775	A. W. Moore
+1774	A. W. Moore
+1777	A.W. Moore
+1776	A. W. Moore
+1771	A. W. Moore
+1770	A. W. Moore
+1773	A. W. Moore
+1772	A. W. Moore
+1779	A. W. Moore
+1778	A. W. Moore
+55	K.-D. Althoff
+54	K.-D. Althoff
+1399	V. Lesser
+1398	V. R. Lesser
+425	Clark , E. V.
+427	Herbert H. Clark
+426	Eve V. Clark
+223	H. Berghuis
+2436	H. van Staveren
+2199	Rymon, R.
+1807	K. Musumbu
+1806	K. Musumbu
+1808	K. Musumbu
+0	A. Aamodt
+1397	Lesser , V. R.
+524	R.H. Crites
+525	R. H. Crites
+526	R. H. Crites
+527	R. Crites
+520	Crites R.H.
+521	Crites, R. H.
+522	Crites, R. H.
+523	Crites, R. H.
+528	R. Crites
+234	W. Bibel
+235	W. Bibel
+236	W. Bibel
+232	D. Beymer
+233	B. Bhattacharya
+2229	M Scardamalia
+1	A. Aamodt
+2538	S.B. Thrun
+2539	Sebastian B. Thrun
+2537	Throop, D.
+2715	R. Weiss
+2150	A.M. Richter
+1487	Linoff, G.
+1486	Linoff, G.
+1485	Linoff, G.
+1484	G. Linoff
+1488	Gordon Linoff
+1276	L. I. Kontothanassis
+1000	Hebert, P.
+2886	J. Zhou
+2887	J. Zhou
+2885	J. Zhou
+2	A. Aamodt
+11	Agnar Aamodt
+10	Agnar Aamodt
+13	A. L. Abbott
+12	Agnar Aamodt
+203	P.C. BELL
+202	Bell , B.
+2097	C. R. Ramakrishnan
+2099	Ram, A.
+2140	Reyle, U.
+1922	A. Palmer
+1923	P. Panangaden
+1927	Pask, G.
+3	A. Aamodt
+1725	E. Milios
+788	Fink, J.;
+1038	K. Hiraki
+1039	Haym Hirsh
+4	A. Aamodt
+2558	Torre , V.
+2559	Torre V.
+2392	D. Smith
+2390	David Smith
+2778	Whitehead S.
+2779	Whitehead, S.
+2770	Steven D. Whitehead
+2771	Whitehead, Steven D.
+2772	Steven Whitehead
+2773	Steven Whitehead
+2774	Whitehead, S.
+2775	Whitehead, S.
+2776	Whitehead, S.
+2777	Whitehead, S.
+1859	Shoichi Noda
+1853	Nicholas Negroponte
+2170	Rohrig, R.
+917	Graham, D. P. W.
+2607	Valkonen, Kari
+846	M. J. Garca de la Banda Garca
+845	L.M. Gambardella
+844	L. M. Gambardella
+843	L. M. Gambardella
+842	Gambardella, L. M.
+841	Gambardella, L. M.
+662	T. Duchamp
+753	Farquhar, A.
+752	Farquhar, A.
+751	Adam Farquhar
+1024	Hewitt, J.
+1027	Hinkle, D.
+2543	S. Thrun
+2541	S. Thrun
+2540	Sebastian B. Thrun
+2547	Thrun, S.
+2546	Thrun, S.
+2545	S. Thrun
+2548	Thrun, S.
+2381	Smith, B C
+2389	David Smith
+2769	Whitehead, S. D.
+2768	Whitehead, S.D.
+2763	Whitehead, S.D.
+2762	Whitehead, S. D.
+2761	Whitehead,S.D.
+2767	Whitehead, S. D.
+2766	Whitehead, S. D.
+2765	Whitehead,S.D.
+2764	Whitehead, S. D.
+906	Golden, K.
+907	K. Golden
+905	Keith Golden
+908	K. Golden
+909	K. Golden
+2617	A. Varshney
+1906	M.W. Oram
+6	Aamodt, A
+740	Oren Etzioni
+749	H. Fan
+1791	Moore, A. W.
+1875	S. Noda
+7	Aamodt, A.
+2577	E. Tyugu
+1876	S. Noda
+1877	S. Noda
+1874	S. Noda
+1872	S. Noda
+1873	S. Noda
+1870	S. Noda
+1871	S. Noda
+2110	Anand S. Rao
+2111	A. S. Rao
+2758	S. D. Whitehead
+2759	S.D. Whitehead
+77	Anzai, Y.
+76	Anzai, Y.
+79	Yuichiro Anzai
+78	Yuichiro Anzai
+1047	T. Hogg
+1046	T. Hogg
+1045	T. Hogg
+1044	T. Hogg
+1048	Hohle, J.
+1319	Kuwabara , K.
+316	K. H.Brink
+2757	S.D. Whitehead
+1861	Shoichi Noda
+1860	Shoichi Noda
+1863	Noda, S.
+1862	Shoichi Noda
+1865	S. Noda
+1864	S. Noda
+1867	S. Noda
+1866	S. Noda
+1869	S. Noda
+1868	S. Noda
+2109	Anand S. Rao
+2108	Anand S. Rao
+2102	Ram, A
+2101	Ram, A.
+2100	Ram, A.
+2107	Anand S. Rao
+2639	J. Voelcker
+2638	J. Voelcker
+9	Aamodt, A.
+894	Globig, C.
+898	R. Godin
+1788	Moore, A. W.
+1789	Moore, A. W.
+1674	J. McClelland
+1675	J. L. McClelland
+1676	McClelland, J. L.
+1677	McClelland , J.
+1670	R. A. McCallum
+1671	McCarragher, B. J.
+1093	G.W. Humphreys
+674	DYN, N.
+673	M. E. Dyer
+5	Aamodt, A.
+1531	Ernst Lutz
+1254	Klopf, A. H.
+1253	Klopf, A. H.
+1259	K. Koile
+1792	Moore, A. W.
+2350	Simon, H.
+2351	Simonis,  H.
+2133	G. Reiss
+2643	I. Wachsmuth
+2644	I. Wachsmuth
+2645	Wachsmuth, I.
+2646	Wachsmuth, I.
+1790	Moore, A. W.
+719	O. Etzioni
+718	O. Etzioni
+717	Etzioni, O.
+716	Etzioni, O.
+715	Etzioni, O.
+714	Etzioni,O.
+713	Etzioni, O.
+1669	R. Andrew McCallum
+1668	R. Andrew McCallum
+1667	R. Andrew McCallum
+1666	R. Andrew McCallum
+1665	McCallum, R. A.
+1664	McCallum, R. A.
+1663	McCallum, R. A.
+2828	Lambert E. Wixson
+2829	Lambert Wixson
+1400	V. Lesser
+1406	T.K. Leung
+1405	T.K. Leung
+1404	T.K. Leung
+1547	Roger Maddux
+447	L. A. Codispoti
+38	Allen, B.P
+2496	H. Tanaka
+8	Aamodt, A.,
+1991	Pell, B.
+2349	H. A. SIMON
+133	Fahiem Bacchus
+137	F. Bacchus
+136	F. Bacchus
+135	F. Bacchus
+134	Fahiem Bacchus
+2112	A.S. Rao
+80	Y. Anzai
+2835	A.K.C. Wong
+1437	Ming Li
+1438	Li, M.
+1348	Lanzarone, G.A.
+2818	W. Winsborough
+995	M. P. Harper
+994	Harper , M. P.
+991	Harper , M. P.
+993	Harper, M. P.
+992	Harper , M. P.
+1645	Masand, B.
+1644	B. Masand
+1647	Masand, B.
+1646	Masand, B.
+1649	Vadim Maslov
+1648	Brij Masand
+731	O. Etzioni
+730	O. Etzioni
+733	Oren Etzioni
+732	Oren Etzioni
+735	Oren Etzioni
+734	Oren Etzioni
+737	Oren Etzioni
+736	Oren Etzioni
+739	Oren Etzioni
+738	Oren Etzioni
+1274	L. I. Kontothanassis
+1275	L. I. Kontothanassis
+2830	Wixson, L. E.
+266	Alex Borgida
+265	A. Borgida
+264	A. Borgida
+2498	Tanaka, H.
+2497	H. Tanaka
+1185	Gunnel Kaellgren
+726	O. Etzioni
+727	O. Etzioni
+724	O. Etzioni
+725	O. Etzioni
+722	O. Etzioni
+723	O. Etzioni
+720	O. Etzioni
+721	O. Etzioni
+1747	D. P. Mitchell
+728	O. Etzioni
+729	O. Etzioni
+1299	Bruce Krulwich
+1296	M. Krogster
+1295	M. Krogster
