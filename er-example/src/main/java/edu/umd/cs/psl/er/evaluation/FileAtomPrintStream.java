@@ -19,51 +19,61 @@ package edu.umd.cs.psl.er.evaluation;
 import edu.umd.cs.psl.evaluation.resultui.printer.AtomPrintStream;
 import edu.umd.cs.psl.evaluation.debug.AtomPrinter;
 import edu.umd.cs.psl.model.atom.Atom;
+import edu.umd.cs.psl.model.atom.GroundAtom;
+
 import java.io.IOException;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 
 public class FileAtomPrintStream implements AtomPrintStream {
 
-	public FileAtomPrintStream(String outFile, String delim) {
-		atomcount=0;
-		try {
-			out = new BufferedWriter(new FileWriter(outFile));
-			this.delim = delim;
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
-	
-	@Override
-	public void close() {
-		try { 
-			out.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+   public FileAtomPrintStream(String outFile, String delim) {
+      atomcount = 0;
+      try {
+         out = new BufferedWriter(new FileWriter(outFile));
+         this.delim = delim;
+      } catch (IOException e) {
+         e.printStackTrace();
+      }
+   }
 
-	@Override
-	public void printAtom(Atom atom) {
-		try {
-			for (int i = 0; i < atom.getArity(); i++) 
-				out.write(atom.getArguments()[i] + delim);
+   public void close() {
+      try {
+         out.close();
+      } catch (IOException e) {
+         e.printStackTrace();
+      }
+   }
 
-			for (int i = 0; i < atom.getNumberOfValues(); i++) {
-				if (i > 0)
-					out.write(delim);
-				out.write("" + atom.getSoftValue(i));
-			}
-			out.newLine();
+   public void printAtom(Atom rawAtom) {
+      // HACK(eriq): Atom's no longer have getSoftValue() (or getNumberOfValues)...
+      //  Can only get the value of a grounded atom.
+      //  Since it is a hack, don't bother catching class cast exception.
+      GroundAtom atom = (GroundAtom)rawAtom;
 
-			atomcount++;
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+      try {
+         for (int i = 0; i < atom.getArity(); i++) {
+            out.write(atom.getArguments()[i] + delim);
+         }
 
-	private int atomcount;
-	private String delim;
-	private BufferedWriter out;
+         /*
+         for (int i = 0; i < atom.getNumberOfValues(); i++) {
+            if (i > 0) {
+               out.write(delim);
+            }
+            out.write("" + atom.getSoftValue(i));
+         }
+         */
+         out.write("" + atom.getValue());
+         out.newLine();
+
+         atomcount++;
+      } catch (IOException e) {
+         e.printStackTrace();
+      }
+   }
+
+   private int atomcount;
+   private String delim;
+   private BufferedWriter out;
 }

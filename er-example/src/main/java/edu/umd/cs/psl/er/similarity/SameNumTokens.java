@@ -16,20 +16,33 @@
  */
 package edu.umd.cs.psl.er.similarity;
 
-import edu.umd.cs.psl.model.function.AttributeSimilarityFunction;
+import edu.umd.cs.psl.database.ReadOnlyDatabase;
+import edu.umd.cs.psl.model.argument.ArgumentType;
+import edu.umd.cs.psl.model.argument.GroundTerm;
+import edu.umd.cs.psl.model.function.ExternalFunction;
 
 /**
  * This external similarity function returns 1 if the
  * input strings contain the same number of tokens,
  * and 0 otherwise.
  */
-class SameNumTokens implements AttributeSimilarityFunction
-{
-    public double similarity (String a, String b) {
-		String[] tokens0 = a.split("\\s+");
-		String[] tokens1 = b.split("\\s+");
-		if (tokens0.length != tokens1.length)
-			return 0.0;
-		return 1.0;
-    }
+class SameNumTokens implements ExternalFunction {
+   public int getArity() {
+      return 2;
+   }
+
+   public ArgumentType[] getArgumentTypes() {
+      return new ArgumentType[]{ArgumentType.String, ArgumentType.String};
+   }
+
+   public double getValue(ReadOnlyDatabase db, GroundTerm... args) {
+      String[] tokens0 = args[0].toString().split("\\s+");
+      String[] tokens1 = args[1].toString().split("\\s+");
+
+      if (tokens0.length != tokens1.length) {
+         return 0.0;
+      }
+
+      return 1.0;
+   }
 }
