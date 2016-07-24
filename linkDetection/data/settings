@@ -1,0 +1,127 @@
+clusters	25
+similarities	5
+source_nodes	100
+target_nodes	100
+
+----- link probabilities -----
+spurious_link_probability	0.0530189811048
+[ 0.1189252   0.7195594   0.0135727   0.45114107  0.75829705  0.68056498
+  0.17934761  0.06088094  0.25566702  0.80038574  0.6791361   0.26781026
+  0.14639416  0.90037587  0.33971255  0.99524245  0.22212735  0.24213687
+  0.64864855  0.03867092  0.76707873  0.39460929  0.82287529  0.43339607
+  0.918898  ]
+
+----- source cluster probabilities -----
+[0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04]
+
+----- target cluster probabilities -----
+[0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04]
+
+----- similarities -----
+00 (<class 'SyntheticSimilarities.GaussianNodeSimilarity'>):	wC: (0.9,0.4)	bC:	(0.1,0.4)
+01 (<class 'SyntheticSimilarities.GaussianNodeSimilarity'>):	wC: (0.9,0.2)	bC:	(0.5,0.2)
+02 (<class 'SyntheticSimilarities.GaussianNodeSimilarity'>):	wC: (0.7,0.2)	bC:	(0.3,0.2)
+03 (<class 'SyntheticSimilarities.GaussianNodeSimilarity'>):	wC: (0.6,0.2)	bC:	(0.4,0.2)
+04 (<class 'SyntheticSimilarities.GaussianNodeSimilarity'>):	wC: (0.5,0.2)	bC:	(0.5,0.2)
+
+----- clusters -----
+0:
+	sources:	s_A_23, s_A_43, s_A_61, s_A_75
+	targets:	t_A_4, t_A_93
+
+1:
+	sources:	s_B_58, s_B_64, s_B_89
+	targets:	t_B_10, t_B_45, t_B_87, t_B_96, t_B_97
+
+2:
+	sources:	s_C_22, s_C_31, s_C_41, s_C_56
+	targets:	t_C_17, t_C_31, t_C_65, t_C_76, t_C_95
+
+3:
+	sources:	s_D_15, s_D_29, s_D_81, s_D_90, s_D_93
+	targets:	t_D_3, t_D_12, t_D_19, t_D_29, t_D_64, t_D_86
+
+4:
+	sources:	s_E_9, s_E_42
+	targets:	t_E_1, t_E_7, t_E_34, t_E_50
+
+5:
+	sources:	s_F_0
+	targets:	t_F_37
+
+6:
+	sources:	s_G_20, s_G_26, s_G_32, s_G_51, s_G_55
+	targets:	t_G_82, t_G_99
+
+7:
+	sources:	s_H_34, s_H_44, s_H_49, s_H_65, s_H_68, s_H_72, s_H_80, s_H_87
+	targets:	t_H_13, t_H_25, t_H_63, t_H_69
+
+8:
+	sources:	s_I_2, s_I_8, s_I_52, s_I_91
+	targets:	t_I_9, t_I_58, t_I_68
+
+9:
+	sources:	s_J_60, s_J_77, s_J_82
+	targets:	t_J_14
+
+10:
+	sources:	s_K_6, s_K_17, s_K_30, s_K_37, s_K_45, s_K_54, s_K_67, s_K_83, s_K_98
+	targets:	t_K_11, t_K_41, t_K_51
+
+11:
+	sources:	s_L_38, s_L_73, s_L_74, s_L_84
+	targets:	t_L_46, t_L_53, t_L_56, t_L_57, t_L_59, t_L_98
+
+12:
+	sources:	s_M_19, s_M_85
+	targets:	t_M_39, t_M_74
+
+13:
+	sources:	s_N_36, s_N_92
+	targets:	t_N_23, t_N_28, t_N_52, t_N_54
+
+14:
+	sources:	s_O_13, s_O_14, s_O_40, s_O_53, s_O_76, s_O_97
+	targets:	t_O_0, t_O_43, t_O_62, t_O_73, t_O_79, t_O_81
+
+15:
+	sources:	s_P_12
+	targets:	t_P_35, t_P_47, t_P_66, t_P_88
+
+16:
+	sources:	s_Q_16, s_Q_24, s_Q_46, s_Q_59, s_Q_70, s_Q_71, s_Q_88
+	targets:	t_Q_15, t_Q_30, t_Q_44, t_Q_78
+
+17:
+	sources:	s_R_3, s_R_4, s_R_10, s_R_11, s_R_57
+	targets:	t_R_32, t_R_48, t_R_49, t_R_83, t_R_92
+
+18:
+	sources:	s_S_1, s_S_7, s_S_79, s_S_96
+	targets:	t_S_18, t_S_26, t_S_38, t_S_80, t_S_90
+
+19:
+	sources:	s_T_5, s_T_21, s_T_63
+	targets:	t_T_2, t_T_20, t_T_71, t_T_91
+
+20:
+	sources:	s_U_48, s_U_66, s_U_69, s_U_86
+	targets:	t_U_5, t_U_6, t_U_8, t_U_67, t_U_70, t_U_72, t_U_77, t_U_85
+
+21:
+	sources:	s_V_27, s_V_39, s_V_50, s_V_78
+	targets:	t_V_16, t_V_21, t_V_33, t_V_55, t_V_75
+
+22:
+	sources:	s_W_28
+	targets:	t_W_24, t_W_36, t_W_40, t_W_84, t_W_89
+
+23:
+	sources:	s_X_18, s_X_25, s_X_47, s_X_62, s_X_95, s_X_99
+	targets:	t_X_27, t_X_42
+
+24:
+	sources:	s_Y_33, s_Y_35, s_Y_94
+	targets:	t_Y_22, t_Y_60, t_Y_61, t_Y_94
+
