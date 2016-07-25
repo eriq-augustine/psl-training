@@ -40,9 +40,9 @@ model.add function: "Echo", implementation: new Echo()
 model.add function: "Echo2", implementation: new Echo2()
 
 // Pops assertion: edu.umd.cs.psl.database.rdbms.Formula2SQL.visitFunctionalAtom(Formula2SQL.java:99)
-model.add rule: ( SourceSim(A1, A2, S1) & TargetSim(B1, B2, S2) & LINK(A1, B1) & Echo(S1) & Echo(S2) ) >> Link(A2, B2), weight: 10;
+// model.add rule: ( SourceSim(A1, A2, S1) & TargetSim(B1, B2, S2) & LINK(A1, B1) & Echo(S1) & Echo(S2) ) >> Link(A2, B2), weight: 10;
 
-// model.add rule: ( SourceSim(A1, A2, S1) & TargetSim(B1, B2, S2) & LINK(A1, B1) & Echo2(S1, S1) & Echo2(S2, S2) ) >> Link(A2, B2), weight: 10;
+model.add rule: ( SourceSim(A1, A2, S1) & TargetSim(B1, B2, S2) & LINK(A1, B1) & Echo2(S1, S1) & Echo2(S2, S2) ) >> Link(A2, B2), weight: 10;
 // Symetric rule? >> LINK(A!, B1)
 
 model.add rule: ~Link(A, B), weight: 1; // Prior
