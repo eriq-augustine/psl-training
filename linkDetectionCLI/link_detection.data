@@ -1,0 +1,12 @@
+predicates:
+   SourceSim/3: closed
+   TargetSim/3: closed
+   Link/2: open
+
+observations:
+   SourceSim: simpleLinks/src_sims
+   TargetSim: simpleLinks/tgt_sims
+   Link: simpleLinks/links
+
+targets:
+   Link: simpleLinks/links_targets

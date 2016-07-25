@@ -1,0 +1,2 @@
+10: SourceSim(A1, A2, S1) & TargetSim(B1, B2, S2) & Link(A1, B1) -> Link(A2, B2) ^2
+1: ~Link(A, B) ^2
